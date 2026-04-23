@@ -1,6 +1,6 @@
 # Deployment-101
 
-```markdown
+```
 # 🚀 The Ultimate Deployment Guide: From Code to Production
 
 > **A quick note before you start:** I wrote this README exactly how I would explain it to you if we were sitting together. No complicated corporate jargon, just a clear, practical breakdown of how deployment actually works, where to put your code (especially .NET), and how to avoid the traps that waste hours of your time.
