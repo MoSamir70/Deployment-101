@@ -15,7 +15,7 @@
 5. [CI/CD: The Secret Weapon of Pro Developers](#-cicd-the-secret-weapon-of-pro-developers)
 6. [Deployment Best Practices (The "Pro" Level)](#-deployment-best-practices-the-pro-level)
 7. [SSL / HTTPS & Docker](#-ssl--https--docker)
-8. [Q&A & The Ultimate Arabic Study Guide](#-qa--the-ultimate-arabic-study-guide)
+
 
 ---
 
